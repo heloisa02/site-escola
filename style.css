@@ -35,3 +35,28 @@ escola-div-conteudo{
 .estudante-imagem{
   width: 120px
 }
+
+
+preenchimento :  16 px  0 ;
+}
+
+.estudante-titulo{
+    alinhamento de texto : centro;
+    preenchimento :  50 px  0 ;
+}
+
+.estudante-todos{
+    exibição : grade;
+    colunas de modelo de grade :  20 %  20 %  20 %  20 %  20 % ;
+}
+
+. rodape {
+    cor de fundo : preto;
+    alinhamento de texto : centro;
+}
+
+.rodape-imagem {
+    altura :  60px ;​
+    preenchimento :  12 px  0 ;
+
+}
